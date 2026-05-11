@@ -8,7 +8,10 @@
   </h2>
 
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    안녕하세요. AI & Dev & Sec을 공부하고 있는 학부생입니다.<br>
+    Hello, I'm a student studying AI & development and security.
+My current interests are exploring vulnerabilities in AI architectures and secure coding.
+    I will reach the top of this path
+<br>
     현재 관심 분야는 AI 구조 취약점 탐색과 Dev 시큐어 코딩입니다.
   </div>
 </div>
