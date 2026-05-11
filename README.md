@@ -55,7 +55,6 @@
       <th align="left">설명</th>
       <th align="left">상태</th>
     </tr>
-    
     <tr>
       <td><b>Dev</b></td>
       <td>지능형 서류 분석 도우미 실행파일</td>
