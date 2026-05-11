@@ -8,9 +8,9 @@
   </h2>
 
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    Hello, I'm a student studying AI & development and security🌏<br>
+    Hello, I'm a student studying AI & development and security<br>
     My current interests are exploring vulnerabilities in AI architectures and secure coding<br>
-    I will reach the top of this path
+    I will reach the top of this path🌏
 <br>
   </div>
 </div>
