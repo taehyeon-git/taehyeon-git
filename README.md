@@ -55,13 +55,9 @@
       <th align="left">설명</th>
       <th align="left">상태</th>
     </tr>
+    
     <tr>
-      <td><b>AI Vulnerability Study</b></td>
-      <td>AI 구조 취약점 탐색 및 보안 관점 분석</td>
-      <td>진행 예정</td>
-    </tr>
-    <tr>
-      <td><b>AI Vulnerability Study</b></td>
+      <td><b>Dev</b></td>
       <td>지능형 서류 분석 도우미 실행파일</td>
       <td>진행 중</td>
     </tr>
@@ -74,6 +70,11 @@
       <td><b>Dev Note</b></td>
       <td>개발 및 보안 학습 내용을 정리하는 개인 노트</td>
       <td>운영 중</td>
+    </tr>
+    <tr>
+      <td><b>AI Vulnerability Study</b></td>
+      <td>AI 구조 취약점 탐색 및 보안 관점 분석</td>
+      <td>진행 예정</td>
     </tr>
   </table>
 </div>
