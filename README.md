@@ -46,7 +46,7 @@
 
 <div align="left">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-    🚀 Projects
+    🚀 Personal Projects
   </h2>
 
   <table>
@@ -58,11 +58,16 @@
     <tr>
       <td><b>AI Vulnerability Study</b></td>
       <td>AI 구조 취약점 탐색 및 보안 관점 분석</td>
+      <td>진행 예정</td>
+    </tr>
+    <tr>
+      <td><b>AI Vulnerability Study</b></td>
+      <td>지능형 서류 분석 도우미 실행파일</td>
       <td>진행 중</td>
     </tr>
     <tr>
       <td><b>Secure Coding Practice</b></td>
-      <td>C/Linux 기반 시큐어 코딩 학습 및 실습</td>
+      <td>AI Recon Security Lab</td>
       <td>진행 중</td>
     </tr>
     <tr>
